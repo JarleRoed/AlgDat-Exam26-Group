@@ -1,0 +1,4 @@
+#AlgDat Exam with Dinsdinsdins
+Exam solution for Algorithms & Data Structures (2026), developed collaboratively by a team of two. 
+Implements Bubble Sort, Insertion Sort, Merge Sort, and Quick Sort on a real wine quality dataset. 
+Covers CSV data loading, data manipulation, algorithm implementation, performance analysis, and structured Java development.
